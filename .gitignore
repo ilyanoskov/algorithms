@@ -2,3 +2,4 @@ a.out
 practice/
 final/
 *.swp
+.DS_Store
